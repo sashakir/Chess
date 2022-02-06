@@ -1,0 +1,1 @@
+class Move(val from: Point, to: Point, eaten: Boolean)
